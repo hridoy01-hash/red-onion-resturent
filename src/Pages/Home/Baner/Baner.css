@@ -1,0 +1,17 @@
+.baner{
+    height: 400px;
+    width:100%;
+    background-image: url('../../../Image/bannerbackground.png');
+    background-size: cover ;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+
+   
+}
+.baner h3{
+    font-size: 40px;
+}
